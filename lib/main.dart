@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
                 height: 20,
               ),
               Text(
-                'Hello, Flutter!',
+                'Hello to my world!',
                 style: TextStyle(fontSize: 24),
               ),
             ],
